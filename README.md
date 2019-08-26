@@ -1,2 +1,2 @@
 # My master's degree thesis.
-## Outlier Diagnosis of Vector Autoregression Model
+## Diagnostic analysis for vector autoregression model under normal distribution
